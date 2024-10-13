@@ -3,3 +3,5 @@
 
 
  ## 🍯 https://judge.beecrowd.com/pt
+
+[O tutorial de Python](https://docs.python.org/pt-br/3/tutorial/)
