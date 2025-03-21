@@ -6,3 +6,6 @@ O arquivo de entrada contém 1 valor inteiro qualquer.
 Saída
 Imprima todos os valores ímpares de 1 até X, inclusive X, se for o caso."""
 
+valor_inteiro = int(input())
+for i in range(1, valor_inteiro + 1, 2):
+    print(i)
